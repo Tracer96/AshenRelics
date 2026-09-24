@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: AshenRelics
+## Notes: Ashen Relics quest log and Banner Reliquary
+## Author: OpenAI
+## Version: 0.7.6-copy-editor
+## SavedVariables: AshenRelicsDB
+
+AshenRelics.lua
